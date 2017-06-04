@@ -46,7 +46,7 @@ module Fastlane
       end
 
       def self.example_code
-        ['check_swift_version(version: "Apple Swift version 3.0.2")']
+        ['ensure_swift_version(version: "Apple Swift version 3.0.2")']
       end
 
       def self.is_supported?(platform)
