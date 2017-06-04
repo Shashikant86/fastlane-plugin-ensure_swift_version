@@ -26,7 +26,7 @@ Replace the swift version you are working on.
 
 Check out the [example `Fastfile`](fastlane/Fastfile) to see how to use this plugin. Try it by cloning the repo, running `fastlane install_plugins` and `bundle exec fastlane test`.
 
-Or there is demo for this repo [here](https://github.com/Shashikant86/demo_ensure_swift_version_plugin)
+Or there is demo repo for this plugin [here](https://github.com/Shashikant86/demo_ensure_swift_version_plugin)
 
 
 ## Run tests for this plugin
