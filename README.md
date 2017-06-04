@@ -14,7 +14,7 @@ fastlane add_plugin ensure_swift_version
 
 This plugin ensure version of Swift language used for project You can use it in the `before_all` lane as
 
-ensure_swift_version(version: "Apple Swift version 3.0.2")
+     ensure_swift_version(version: "Apple Swift version 3.0.2")
 
 Replace the swift version you are working on.
 
